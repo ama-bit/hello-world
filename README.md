@@ -1,42 +1,30 @@
-# hello-world
+# Hello World
 
-This repository is for practicing the GitHub Flow.
-
----
-
-## Project Scope
-
-This is a **Hello World** project created to help beginners learn:
-
-- How GitHub works
-- Basic Git commands
-- How to write a README using Markdown
-- How to document security-related projects
+This repository is a simple Hello World project to practice using Git and GitHub.
 
 ---
 
-## Objective 
+### Purpose
 
-The goal is to become familiar with:
+The goal of this project is to build a foundation in:
 
-- Git
+- Git and GitHub
 - GitHub Flow
-- Markdown documentation
+- Writing clear documentation with Markdown
 
 ---
 
-## How to use This Repository
+### What This Project Covers
 
-1. Clone the repository
-2. Make changes
-3. Commit your changes
-4. Push them to GitHub
+- Cloning a repository
+- Making and committing changes
+- Pushing updates to GitHub
 
 ---
 
-## Notes
+### Notes
 
-This project is for learning and practice purposes. 
+This project serves as a starting point before moving on to more complex and meaningful projects.
 
 
 
