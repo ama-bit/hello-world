@@ -1,12 +1,12 @@
-# Hello World
+# Hello World 🗺️
 
-This repository is a simple Hello World project to practice using Git and GitHub.
+This repository is a simple Hello World exercise to practice GitHub's pull request workflow. 
 
 ---
 
 ### Purpose
 
-The goal of this project is to build a foundation in:
+The goal of this exercise is to build a foundation in:
 
 - Git and GitHub
 - GitHub Flow
@@ -14,7 +14,7 @@ The goal of this project is to build a foundation in:
 
 ---
 
-### What This Project Covers
+### What This Exercise Covers
 
 - Cloning a repository
 - Making and committing changes
@@ -24,7 +24,11 @@ The goal of this project is to build a foundation in:
 
 ### Notes
 
-This project serves as a starting point before moving on to more complex and meaningful projects.
+This exercise serves as a starting point before moving on to more complex and meaningful projects.
 
+
+### Resources
+
+[GitHub Tutorial - Follow this Hello World exercise to learn GitHub's pull request workflow.](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 
